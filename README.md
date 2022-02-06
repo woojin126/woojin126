@@ -3,7 +3,7 @@
 <br />
 👨‍🔧대량 트래픽을 경험하고싶은 개발자
 <br />
-😁저는 100개 이상의 글이 있는 기술블로그를 운영중인 기록하는 개발자입니다.
+😁꾸준히 기술 블로그를 운영중입니다.
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
