@@ -1,12 +1,10 @@
 # 💫About Me :
-😀끊임없이 성장하고 싶은 개발자
+👨‍💻끊임없이 성장하고 싶은 개발자
 <br />
-😄많은 트래픽을 경험하고싶은 개발자
+👨‍🔧대량 트래픽을 경험하고싶은 개발자
 <br />
 😁저는 100개 이상의 글이 있는 기술블로그를 운영중인 기록하는 개발자입니다.
 
-
-ssdfdsfdsf
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
